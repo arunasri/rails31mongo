@@ -1,6 +1,6 @@
 development:
   host: localhost
-  database: mongoid_development
+  database: immigration
 
 test:
   host: localhost
